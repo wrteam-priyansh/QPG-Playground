@@ -1,0 +1,9 @@
+{
+  "metadata": {
+    "processed_at": "2025-09-04T11:07:32.014020",
+    "total_pages": 26,
+    "api_calls": {
+      "vision_api": 26,
+      "gemini_api": 59,
+      "total_tokens_used": 0,
+      "start_time": 
